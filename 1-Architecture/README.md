@@ -276,21 +276,21 @@ Guests need hardware devices: timers, interrupt controllers, serial ports, netwo
 ## 12. Course Screenshots
 The following screenshots from the video course illustrate the key concepts covered in this architecture module.
 
-![Screenshot 1](resources/screenshot_01.png)
+![Screenshot 1](resources/1.png)
 
-![Screenshot 2](resources/screenshot_02.png)
+![Screenshot 2](resources/2.png)
 
-![Screenshot 3](resources/screenshot_03.png)
+![Screenshot 3](resources/3.png)
 
-![Screenshot 4](resources/screenshot_04.png)
+![Screenshot 4](resources/4.png)
 
-![Screenshot 5](resources/screenshot_05.png)
+![Screenshot 5](resources/5.png)
 
-![Screenshot 6](resources/screenshot_06.png)
+![Screenshot 6](resources/6.png)
 
-![Screenshot 7](resources/screenshot_07.png)
+![Screenshot 7](resources/7.png)
 
-![Screenshot 8](resources/screenshot_08.png)
+![Screenshot 8](resources/8.png)
 
 ## 13. Summary of Key Architectural Principles
 
