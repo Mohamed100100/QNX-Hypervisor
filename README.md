@@ -78,3 +78,16 @@ This course goes beyond basic overviews. It has evolved over years to cover:
 ---
 
 *This course is designed for system architects, embedded developers, and safety engineers building next-generation automotive, medical, industrial, and aerospace systems.*
+
+--- 
+
+## Resources for Ongoing Learning
+This QNX Hypervisor Overview course has been offered for free as part of QNX Everywhere.
+
+Many additional resources are available through QNX. Our Getting Started Guide would be a good next step if you're looking to develop with QNX. You can also reference all of the QNX Product Documentation to dig deeper into any topic. Did you know that you can also use QNX in the Cloud?
+
+Here's a great Blog post about Free Access to QNX Hypervisor with QNX Everywhere, it gives a very simple explanation of the QNX Hypervisor, and links to Getting Started - Hypervisor on Pi which you may find helpful.  In addition, there's the Hypervisor GitHub page that contains supporting content for QNX Hypervisor.
+
+Finally, check the QNX Hypervisor Product page for the latest information about product releases, and you can refer to the QNX Hypervisor User's Guide for in-depth technical documentation about the QNX Hypervisor.
+
+
